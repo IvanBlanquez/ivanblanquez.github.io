@@ -1,11 +1,11 @@
 title: "Iván Blánquez Romero"
 description: "Personal Website"
 baseurl: "" # Deja esto vacío si es el repositorio raíz
-url: "https://tusitio.github.io" # Cambia esto por tu URL de GitHub Pages
+url: "https://ivanblanquez.github.io" # Cambia esto por tu URL de GitHub Pages
 theme: minima
 author: 
   name: "Iván Blánquez Romero"
-  email: "tucorreo@example.com"
+  email: "ivanblanquez@example.com"
   social:
     x: "https://x.com/tuusuario"
     linkedin: "https://www.linkedin.com/in/tuusuario"
