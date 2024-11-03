@@ -1,13 +1,43 @@
+# Sitio
 title: "Iván Blánquez Romero"
 description: "Personal Website"
 baseurl: "" # Deja esto vacío si es el repositorio raíz
-url: "https://ivanblanquez.github.io" # Cambia esto por tu URL de GitHub Pages
-theme: minima
+url: "https://tusitio.github.io" # Cambia esto por tu URL de GitHub Pages
+
+# Autor
 author: 
   name: "Iván Blánquez Romero"
-  email: "ivanblanquez@example.com"
+  email: "tucorreo@example.com"
   social:
     x: "https://x.com/tuusuario"
     linkedin: "https://www.linkedin.com/in/tuusuario"
     devto: "https://dev.to/tuusuario"
     github: "https://github.com/tuusuario"
+
+# Tema
+theme: minima
+
+# Configuración de plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Configuración de Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Configuración de enlaces
+permalink: pretty
+
+# Secciones de navegación
+nav_links:
+  - title: "About"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Talks"
+    url: "/talks/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Repositories"
+    url: "/repositories/"
