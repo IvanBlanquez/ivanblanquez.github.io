@@ -56,30 +56,32 @@ body {
   }
   
   /* Footer Styles */
-  footer {
+footer {
     text-align: center;
     padding: 1rem 0;
     background-color: #4a4a4a;
     color: white;
-    margin-top: 2rem;
   }
   
-  footer ul {
+  .social-links {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
   }
   
-  footer ul li {
+  .social-links li {
     display: inline;
-    margin: 0 10px;
   }
   
-  footer ul li a {
-    color: white;
-    text-decoration: none;
+  .social-links img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.2s;
   }
   
-  footer ul li a:hover {
-    text-decoration: underline;
+  .social-links img:hover {
+    transform: scale(1.1);
   }
   
