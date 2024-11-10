@@ -9,10 +9,10 @@ author:
   name: "Iván Blánquez Romero"
   email: "tucorreo@example.com"
   social:
-    x: "https://x.com/tuusuario"
-    linkedin: "https://www.linkedin.com/in/tuusuario"
-    devto: "https://dev.to/tuusuario"
-    github: "https://github.com/tuusuario"
+    x: "https://x.com/ivanblanquez"
+    linkedin: "https://www.linkedin.com/in/ivanblanquez"
+    devto: "https://dev.to/ivanblanquez"
+    github: "https://github.com/ivanblanquez"
 
 # Tema
 theme: minima
