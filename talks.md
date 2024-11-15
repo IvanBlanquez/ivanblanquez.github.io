@@ -4,6 +4,5 @@ title: "Talks"
 permalink: /talks/
 ---
 
-# Talks
-
-En esta sección, comparto algunas de las charlas que he impartido en eventos y conferencias. Pronto añadiré enlaces y detalles.
+* [Ecostistemas Big Data sobre AWS | Codemotion Madrid 2017](https://www.youtube.com/watch?v=bW2tiBwvAH8)
+* [AWS Adoption and Governance in Large Companies | SpainClouds Summit 2021](https://www.youtube.com/watch?v=UUl0F2vcoxk)
