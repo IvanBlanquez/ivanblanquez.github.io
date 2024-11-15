@@ -4,6 +4,5 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
 
-Aquí podrás encontrar mis publicaciones más destacadas. Añadiré enlaces a artículos y papers relevantes.
+[EC2 Cost Saving With Lambda and EventBridge](https://dev.to/ivanblanquez/ec2-cost-saving-with-lambda-and-eventbridge-2378)

@@ -7,7 +7,7 @@ url: "https://ivanblanquez.github.io" # Cambia esto por tu URL de GitHub Pages
 # Autor
 author: 
   name: "Iván Blánquez Romero"
-  email: "tucorreo@example.com"
+  email: "ivan.blanquez@gmail.com"
   social:
     x: "https://x.com/ivanblanquez"
     linkedin: "https://www.linkedin.com/in/ivanblanquez"
@@ -41,3 +41,5 @@ nav_links:
     url: "/cv/"
   - title: "Repositories"
     url: "/repositories/"
+  - title: "Certifications & Badges"
+    url: "/certifications-and-badges/"
