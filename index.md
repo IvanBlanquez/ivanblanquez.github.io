@@ -6,4 +6,4 @@ permalink: /
 
 # Iván Blánquez Romero
 
-Soy un desarrollador de software, arquitecto cloud y transformador digital. Me apasiona ayudar a las startups a crecer con soluciones tecnológicas innovadoras y sostenibles. ¡Bienvenido a mi sitio personal!
+I'm passionate about the world of software development, clean, readable, reusable, maintainable code, and above all, well-tested. I spend my days in the cloud, designing and improving architectures. I avoid human interventions as much as possible, not humans themselves (if you can describe the steps to do something, you can automate it). I love challenges, surrounding myself with people from whom to learn and who provide constructive feedback to continuously improve.
