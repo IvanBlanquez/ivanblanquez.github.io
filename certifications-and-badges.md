@@ -13,6 +13,6 @@ Here are some of the certifications and badges I’ve earned over the years. Cli
   </a>
 
   <a href="https://app.skillsclub.com/credential/12804-10d508bd31272372044f9d233a54f37f16a9fd4a6fb7d26f4795e82c0577f463" target="_blank">
-    <img src="{{ '//assets/images/badges/istqb-tester-foundation-level.png' | relative_url }}" alt="ISTQB Certified Tester - Foundation Level class="badge">
+    <img src="{{ '/assets/images/badges/istqb-tester-foundation-level.png' | relative_url }}" alt="ISTQB Certified Tester - Foundation Level class="badge">
   </a>
 </div>
