@@ -32,7 +32,7 @@ permalink: pretty
 
 # Secciones de navegación
 nav_links:
-  - title: "About"
+  - title: "About Me"
     url: "/"
   - title: "Publications"
     url: "/publications/"
